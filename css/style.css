@@ -3438,7 +3438,8 @@ input[type="button"].btn-block {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem; }
+  padding: 0.5rem 1rem; 
+  }
   .navbar > .container,
   .navbar > .container-fluid {
     display: -webkit-box;
@@ -8134,11 +8135,11 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Work Sans", Arial, sans-serif;
-  background: #fff;
+  background: #ffc107;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #666666; }
+  color: #ffc107; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8198,7 +8199,7 @@ h1, h2, h3, h4, h5,
     text-transform: uppercase;
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #6927ff; }
+      color: #444444; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
         padding-left: 0;
@@ -8258,7 +8259,7 @@ h1, h2, h3, h4, h5,
     background: #38d39f !important; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
     color: rgba(255, 255, 255, 0.5);
-    color: #6927ff; }
+    color: #666666; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
